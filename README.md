@@ -10,11 +10,11 @@ View your app in AI Studio: https://ai.studio/apps/299c632c-ff65-4386-a348-a8f1f
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Grupo**
 
+Nome do projeto: Guia de Estilo Automatizado
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Felipe Mello Ramalho Cagnin - 569237
+Pedro Soares de Souza - 571285
+Nickolas Emanuel da Costa Rengel Tellez - 573483
+Marcelo do Nascimento Batista Pereira - 569410
