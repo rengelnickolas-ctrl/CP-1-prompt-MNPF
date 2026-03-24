@@ -19,3 +19,9 @@ Foi adicionado um tom de voz mais divertido e amigável para situar com o usuár
 
 PALETA DE COR 
 Foi adicionado as cores: preto, branco, vermelho e roxo, pois são as cores favoritas de cada integrante
+
+TIPOGRAFIA
+Foi adicionado para título o serif e para o corpo do texto o modern
+
+COMPONENTES E LAYOUT
+Foi adicionado botões arredondados e com sombras . O layout é de estilo minimalista.
