@@ -24,4 +24,4 @@ TIPOGRAFIA
 Foi adicionado para título o serif e para o corpo do texto o modern
 
 COMPONENTES E LAYOUT
-Foi adicionado botões arredondados e com sombras . O layout é de estilo minimalista..
+Foi adicionado botões arredondados e com sombras . O layout é de estilo minimalista.
